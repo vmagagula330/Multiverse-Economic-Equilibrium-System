@@ -11,3 +11,5 @@ Y
 -tests/cross-universal-trade-agreement.test.ts,a/4/a4df308e744c32d4d8e6f539eb4cdd5d3b3ab0e3
 ]
 -contracts/multiversal-economic-indicator.clar,9/1/91feb99c8ce67f0e02bfcb84d614cbfa7a64cef9
+\
+,tests/multiversal-economic-indicator.test.ts,5/8/5881ac9469b372b89c393c0d9f5d4936b89de290
