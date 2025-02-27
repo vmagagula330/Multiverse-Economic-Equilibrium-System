@@ -5,3 +5,5 @@ Z
 *contracts/inter-reality-exchange-rate.clar,5/c/5c826e437d82aedf1b8a08ac00fcb4982d97fa9d
 Y
 )tests/inter-reality-exchange-rate.test.ts,d/5/d526e0d42252a790151c1ba998d9f053444d0ef2
+^
+.contracts/cross-universal-trade-agreement.clar,e/5/e5dcacacdb6fdb881d61fbbf3c5c055090dc617b

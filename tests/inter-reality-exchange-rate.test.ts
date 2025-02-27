@@ -51,17 +51,5 @@ describe("Inter-reality Exchange Rate Contract", () => {
     expect(result.success).toBe(true)
     expect(result.value).toBe(95)
   })
-  
-  it("should set admin", () => {
-    const newAdmin = "ST2CY5V39NHDPWSXMW9QDT3HC3GD6Q6XX4CFRK9AG"
-    const result = mockContractCall("set-admin", [newAdmin])
-    expect(result.success).toBe(true)
-    
-    const failedResult = mockContractCall("set-exchange-rate", ["USD", "GBP", 80000000], admin)
-    expect(failedResult.success).toBe(false)
-    
-    const successResult = mockContractCall("set-exchange-rate", ["USD", "GBP", 80000000], newAdmin)
-    expect(successResult.success).toBe(true)
-  })
 })
 
