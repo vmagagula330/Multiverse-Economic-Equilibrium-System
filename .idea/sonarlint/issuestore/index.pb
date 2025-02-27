@@ -7,3 +7,5 @@ Y
 )tests/inter-reality-exchange-rate.test.ts,d/5/d526e0d42252a790151c1ba998d9f053444d0ef2
 ^
 .contracts/cross-universal-trade-agreement.clar,e/5/e5dcacacdb6fdb881d61fbbf3c5c055090dc617b
+]
+-tests/cross-universal-trade-agreement.test.ts,a/4/a4df308e744c32d4d8e6f539eb4cdd5d3b3ab0e3
